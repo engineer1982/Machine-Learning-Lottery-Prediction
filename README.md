@@ -1,5 +1,5 @@
 # Machine-Learning-Lottery-Prediction
-Machine Learning code in Python/Tensor Flow.
+Machine Learning code in Python/Keras.
 
 This is just an exercise to put in practice the knowledge learned in Deep Learning Specialization at Coursera (Andrew Ng).
 
