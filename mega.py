@@ -18,7 +18,7 @@ def ldata(m,t):
     # the output is extracting just the first number of the each game.
 
     
-    Location = r'dataset\jogo.xlsx'
+    Location = r'datasets\jogo.xlsx'
     jogo = pd.read_excel(Location)
 
     dataset = {}
